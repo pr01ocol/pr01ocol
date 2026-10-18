@@ -1,7 +1,6 @@
 # hi, i'm pr01ocol 👋
 
-- 🌱 learning ethical hacking & cybersecurity
-- 🐧 daily driver: Linux Mint
-- 🎯 currently working through: picoCTF + TryHackMe
-- 📫 pr01ocol@proton.me
-
+- 🌱 hacking and software development
+- 🐧 daily driver: Arch linux
+- 🎯 currently working through: HackTheBox + TryHackMe
+- 🌐 https://obsidianduck.netlify.app/
